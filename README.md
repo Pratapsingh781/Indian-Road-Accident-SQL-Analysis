@@ -194,6 +194,6 @@ Ranking
 Year-over-year analysis
 Author
 
-## Abhi Ranawat
+## Pratap Singh Ranawat
 
 SQL Data Analysis Portfolio Project
