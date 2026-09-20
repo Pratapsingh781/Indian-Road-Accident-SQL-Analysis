@@ -146,14 +146,19 @@ The project uses the following MySQL database:
 CREATE DATABASE IF NOT EXISTS road_accident_project;
 
 USE road_accident_project;
+```
 
-How to Use This Project
-Open MySQL Workbench.
-Create or import the database and table.
-Load the dataset into the road_accidents table.
-Run the SQL queries from the project file.
-Review the query results and insights.
-Project File
+## How to Use This Project
+
+1. Open MySQL Workbench.
+2. Create or import the database and table.
+3. Load the dataset into the `road_accidents` table.
+4. Run the SQL queries from the project file.
+5. Review the query results and insights.
+
+### Project File
+
+`Indian_Road_Accident_SQL_Analysis.sql`
 
 Indian_Road_Accident_SQL_Analysis.sql
 
