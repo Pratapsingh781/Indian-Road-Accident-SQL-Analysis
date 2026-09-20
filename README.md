@@ -192,7 +192,8 @@ CTEs
 Window functions
 Ranking
 Year-over-year analysis
-Author
+
+#Author
 
 ## Pratap Singh Ranawat
 
